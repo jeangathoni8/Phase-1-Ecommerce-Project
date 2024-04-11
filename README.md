@@ -35,4 +35,4 @@ Contributions are welcome! To contribute, follow these steps:
 No tests are included in this project.
 
 ## Questions
-If you have any questions, please open an issue in the repository or contact me directly at your-email@example.com.
+If you have any questions, please open an issue in the repository or contact me directly at jeangathoni39@gmail.com.
