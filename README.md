@@ -1,4 +1,4 @@
-# Nike Store
+# Nike Replica Store
 
 ## Description
 This is a simple e-commerce website built using HTML, CSS, and JavaScript. It features a responsive design, a slider for featured products, a product details section, a payment form, a gallery, and a footer.
