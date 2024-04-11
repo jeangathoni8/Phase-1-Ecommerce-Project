@@ -18,7 +18,7 @@ const close = document.querySelector(".close");
 // Fetch products from server
 async function fetchProducts() {
   try {
-    const response = await fetch('http://localhost:3000/images');
+    const response = await fetch('https://json-server-r18k.onrender.com/images');
     const data = await response.json();
     products = data;
     choosenProduct = products[0]; // Initialize choosenProduct with the first product
